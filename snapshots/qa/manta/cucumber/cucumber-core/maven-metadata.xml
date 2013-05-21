@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>qa.manta.cucumber</groupId>
+  <artifactId>cucumber-core</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130521225344</lastUpdated>
+  </versioning>
+</metadata>
